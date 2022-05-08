@@ -1,0 +1,14 @@
+#Valgrind files
+vgcore.*
+
+#Linker files
+*.o
+
+#Clion
+.idea/
+
+#Executables
+schneen
+
+#Shader files (for now)
+*.shader
