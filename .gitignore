@@ -9,6 +9,3 @@ vgcore.*
 
 #Executables
 schneen
-
-#Shader files (for now)
-*.shader
